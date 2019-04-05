@@ -1,5 +1,5 @@
 {header}
 
-<div style="display : block; margin : 5px 0">
+<div>
     <span>UserName: {username}</span><br>
 </div>
