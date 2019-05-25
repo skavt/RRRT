@@ -1,6 +1,9 @@
 <?php
 
-include_once 'Controller.php';
+namespace src\H2;
+use controller;
+
+//include_once 'Controller.php';
 
 class Router
 {
