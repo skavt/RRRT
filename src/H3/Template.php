@@ -1,5 +1,7 @@
 <?php
 
+namespace src\H3;
+
 class Template
 {
     private $tags = [];
