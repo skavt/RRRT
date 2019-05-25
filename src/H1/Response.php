@@ -1,5 +1,7 @@
 <?php
 
+namespace src\H1;
+
 class Response 
 {
     function setAllHeaders($statusCode, $contentType)
