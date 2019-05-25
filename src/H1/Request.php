@@ -1,5 +1,7 @@
 <?php
 
+namespace src\H1;
+
 class Request 
 {
     function getHeaders()
