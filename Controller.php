@@ -1,6 +1,8 @@
 <?php
 
-include_once 'src/H3/Template.php';
+use src\H3\Template;
+
+//include_once 'src/H3/Template.php';
 
 class Controller
 {
